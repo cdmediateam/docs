@@ -1,6 +1,10 @@
 {
   "$schema": "https://mintlify.com/schema.json",
   "name": "PRESSROOM Guide",
+  "modeToggle": {
+    "default": "dark",
+    "isHidden": true
+  },
   "logo": {
     "dark": "/logo/pressroom-logo.png",
     "light": "/logo/pressroom-logo.png"
